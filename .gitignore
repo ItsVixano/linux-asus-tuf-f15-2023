@@ -1,2 +1,8 @@
 # Ignore .patch
 *.patch
+
+# Ignore PKGBUILD bits
+build/linux/
+build/linux-stormbreaker*.pkg.tar.zst
+build/src
+build/pkg
